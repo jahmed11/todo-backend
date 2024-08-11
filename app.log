@@ -1,0 +1,6 @@
+2024-08-10T13:48:27.801Z error: Todo not found - PUT /api/todos/f6420cc8-57f1-45c5-8a30-1d65d3cbffaa - ::1
+2024-08-10T13:48:45.644Z error: Todo not found - DELETE /api/todos/110832d8-5aca-4b02-8c26-64d662e0685b - ::1
+2024-08-10T15:41:43.392Z -- error: Cannot read properties of undefined (reading 'title') - POST /api/todos - ::1
+2024-08-10T22:19:07.507Z -- error: Cannot read properties of undefined (reading 'title') - POST /api/todos - ::1
+2024-08-10T22:30:10.246Z -- error: Cannot read properties of undefined (reading 'title') - POST /api/todos - ::1
+2024-08-10T22:31:05.724Z -- error: Cannot read properties of undefined (reading 'title') - POST /api/todos - ::1
