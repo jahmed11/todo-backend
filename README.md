@@ -25,10 +25,13 @@ This is a backend API for a Todo application built using Express and TypeScript.
    git clone https://github.com/yourusername/todo-backend.git
    cd todo-backend
 2. Install Dependencies
+   ```bash
    npm install
 
-3. Start in development mode
+4. Start in development mode
+   ```bash
    npm run dev
 
-4. Start in production mode
+6. Start in production mode
+   ```bash
    npm run dev
