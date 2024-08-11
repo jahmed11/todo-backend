@@ -31,7 +31,7 @@ export class TodoService {
     if (todo) {
       this.todos = this.todos.map((todo) => (todo.id === id ? { ...todo, ...update } : todo));
 
-      return todo;
+      return this.getById(id);
     }
     return undefined;
   }
