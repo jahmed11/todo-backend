@@ -1,7 +1,14 @@
 import { Todo } from "../models/todo";
 import { v4 as uuidv4 } from "uuid";
 
+/**
+ * Service class responsible for managing Todo items.
+ * 
+ * This class provides methods to create, read, update, and delete Todo items.
+ * It acts as a business logic layer, handling operations on the Todo list.
+ */
 export class TodoService {
+   // Private array to store the list of todos
   private todos: Todo[] = [];
 
   getAll(): Todo[] {
